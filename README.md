@@ -2,7 +2,4 @@
 FortuneIT_01
 
 
-This is comment from santosh and editing file 
-
-
-This line is fro Suraj Developer 
+This is Sindhu code and line 
